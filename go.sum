@@ -1,0 +1,11 @@
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/mitchellh/mapstructure v1.1.2 h1:fmNYVwqnSfB9mZU6OS2O6GsXM+wcskZDuKQzvN1EDeE=
+github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
+github.com/openlyinc/pointy v1.1.2 h1:LywVV2BWC5Sp5v7FoP4bUD+2Yn5k0VNeRbU5vq9jUMY=
+github.com/openlyinc/pointy v1.1.2/go.mod h1:w2Sytx+0FVuMKn37xpXIAyBNhFNBIJGR/v2m7ik1WtM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
+github.com/syfun/go-graphql v0.0.2 h1:VNiMjckah87g9Y7WUen1SO3PCJ2BpLrxxExmQ9tQLk4=
+github.com/syfun/go-graphql v0.0.2/go.mod h1:xIfLV0UYTfFChG+Q1fA05Nq+LyvLtcYwDx3Jh37RI6Q=
+github.com/teletraan/httpx v0.0.0-20191230022650-09a1092bd6f4 h1:BUlPW8ly1fiTUJ2PB0Qi+wWfBRviKX+stumyIFmQOIw=
+github.com/teletraan/httpx v0.0.0-20191230022650-09a1092bd6f4/go.mod h1:ohxxfLjMpFYR5C36mIP+Lf0GO5Am6I+6c3yi9Hpjh3Q=
